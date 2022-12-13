@@ -16,7 +16,7 @@ As the students this is written for should have this software already installed,
 Additionally, the following libraries will be needed. For full instructions on their installation, see [`prerequisites.md`](/docs/prerequisites.md).
 - [`ATTinyCore`](https://github.com/SpenceKonde/ATTinyCore) for using the ATtiny861 MCU
 - A OneWire library for interfacing with the DS18B20 digital temperature sensors. If using the TMP3x sensors instead, this is not needed.
-- The [`DallasTemperature`](https://github.com/milesburton/Arduino-Temperature-Control-Library/) library for easier interfacing with the DS18B20 sensors. If using the TMP3x sensors instead, this is not needed.
+- [`DallasTemperature`](https://github.com/milesburton/Arduino-Temperature-Control-Library/) for easier interfacing with the DS18B20 sensors. If using the TMP3x sensors instead, this is not needed.
 
 ## Assembly
 At this point the students may be instructed to design their own PCBs, which falls outside the scope of this guide.
