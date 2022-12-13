@@ -1,0 +1,7 @@
+Arduino Uno     ATtiny x61
+Pin 10      ->  Reset   (PB7)
+Pin 11      ->  MOSI    (PB0)
+Pin 12      ->  MISO    (PB1)
+Pin 13      ->  SCK     (PB2)
+5V          ->  VCC, AVCC
+GND         ->  GND, AGND
