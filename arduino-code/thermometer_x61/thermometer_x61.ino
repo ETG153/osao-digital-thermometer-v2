@@ -39,11 +39,11 @@ void setup() {
     lcd.setCursor(0, 1);
     lcd.print("analog sensors  ");
     delay(2500);
-
-    for (byte i = 0; i < AVERAGING_VALUES_COUNT; i++) {
-      readTemp(0);
-      readTemp(1);
-    }
+  }
+  
+  for (byte i = 0; i < AVERAGING_VALUES_COUNT; i++) {
+    readTemp(0);
+    readTemp(1);
   }
 }
 
