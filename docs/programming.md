@@ -1,5 +1,5 @@
 # Programming the ATtiny861 MCU
-Once the [prerequisites](/docs/prerequisites.md) have been installed, the MCCU can be programmed as follows:
+Once the [prerequisites](/docs/prerequisites.md) have been installed, the MCU can be programmed as follows:
 
 ## Preparing the ISP
 In order to program the MCU, an ISP programmer is needed. For this an arduino board will be used with the `Arduino as ISP` sketch.
